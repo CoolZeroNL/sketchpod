@@ -10,7 +10,7 @@ Or [link to a web-based clone+deploy](https://openshift.redhat.com/app/console/a
 
     https://openshift.redhat.com/app/console/application_type/custom?cartridges%5B%5D=nodejs-0.10&initial_git_url=https%3A%2F%2Fgithub.com%2Fryanj%2Fsketchpod.git
 
-## Local Development
+## Local Development 
 Install dependencies:
 
 ```bash
